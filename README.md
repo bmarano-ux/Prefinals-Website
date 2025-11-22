@@ -1,5 +1,8 @@
 # Prefinals-Website
+AI-WEBSITE
 A website on GenAI FAQs &amp; Ethical Use of AI
+Languages used: HTML AND CSS
+run and view my take on ai
 
 This is the intro page where you can see the message and buttons that redirect it to the gen faq and analogy page
 
